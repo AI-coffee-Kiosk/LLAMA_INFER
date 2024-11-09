@@ -1,0 +1,303 @@
+[
+    {
+        "input": "Customer’s 1 Input: 아이스 아메리카노 한잔, 그리고 뜨거운 라떼도 주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 카라멜 마키아또 두잔 휘핑크림 없이 주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 아이스 라떼 두잔, 하나는 라지로, 하나는 스몰로 주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 라떼 두잔, 각각 아이스로 부탁드립니다."
+    },
+    {
+        "input": "Customer’s 1 Input: 핫 아메리카노 세잔, 한잔은 엑스트라 샷 추가해 주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 카라멜 시럽 추가한 아이스 라떼 한잔, 그리고 샷 추가한 에스프레소 두잔 주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 카페라떼 두잔, 한잔은 엑스트라 샷 추가하고 다른 한잔은 휘핑크림 추가해주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 아이스 카라멜 마키아또 두잔, 하나는 스몰 사이즈로 주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 라떼 두 잔에 하나는 뜨겁게, 다른 하나는 아이스로 부탁드립니다."
+    },
+    {
+        "input": "Customer’s 1 Input: 아이스 카페 라떼 라지 두 잔과 바닐라 시럽 추가한 카페 라떼 한 잔 주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 아메리카노 한잔 주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 라떼 두 잔 부탁드려요."
+    },
+    {
+        "input": "Customer's 1 Input: 아이스 아메리카노 하나 주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 카페라떼 따뜻하게 한잔 주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 에스프레소 두 잔 주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 카푸치노 한잔 주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 아이스 카라멜 마끼아또 하나 주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 핫초코 한잔 주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 콜드브루 한잔 부탁드려요."
+    },
+    {
+        "input": "Customer's 1 Input: 바닐라 라떼 한잔 주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 디카페인 아메리카노 한잔 주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 카페모카 두 잔 주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 아이스 라떼 한잔 주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 아포가토 한잔 부탁드려요."
+    },
+    {
+        "input": "Customer's 1 Input: 핫 아메리카노 두 잔 주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 아이스 카푸치노 하나 주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 엑스트라 샷 추가한 라떼 한잔 주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 카라멜 시럽 추가한 아메리카노 한잔 주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 따뜻한 카페라떼 두 잔 주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 아이스 콜드브루 두 잔 부탁드려요."
+    },
+    {
+        "input": "Customer's 1 Input: 그린티 라떼 한 잔 주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 오렌지 주스 미디엄 사이즈로 하나 주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 딸기 스무디 하나 주문할게요."
+    },
+    {
+        "input": "Customer's 1 Input: 아메리카노 다섯 잔 주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 카푸치노 두 잔에 하나는 뜨겁게, 다른 하나는 아이스로 주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 아메리카노 두 잔 주세요. Customer's 2 Input: 아메리카노 두 잔 말고 라떼로 바꿔주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 아이스 카라멜 마끼아또 한잔 주세요. Customer's 2 Input: 아이스 카라멜 마끼아또 한잔을 핫으로 바꿔주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 라지 사이즈로 주세요. Customer's 2 Input: 라지 사이즈 대신 미디움 사이즈로 바꿔주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 아이스 아메리카노 세잔 주세요. Customer's 2 Input: 아이스 아메리카노 세잔 대신 카푸치노 두잔으로 바꿔주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 아이스 카페라떼 한잔 주세요. Customer's 2 Input: 아이스 카페라떼 말고 아이스 초콜릿 라떼로 바꿔주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 아이스 바닐라 라떼 한잔 주세요. Customer's 2 Input: 아이스 바닐라 라떼를 따뜻한 카페라떼로 바꿔주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 핫 바닐라 라떼 한잔을 아이스 바닐라 라떼로 바꿔주시고, 샷 하나 추가해 주세요."
+    }, 
+    {
+        "input": "Customer’s 1 Input: 라지 카푸치노 두잔을 미디움 사이즈로 바꿔주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 아메리카노 라지 두잔 중 한 잔을 라떼로 변경해주세요."
+    }, 
+    {
+        "input": "Customer’s 1 Input: 아이스 카페라떼에서 샷 추가한 걸 뺀 라떼로 바꿔주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 휘핑크림을 뺀 카라멜마끼아또로 바꿔주세요."
+    }, 
+    {
+        "input": "Customer’s 1 Input: 아이스 키페라떼 대신 바닐라 라떼로 바꿔주시고, 엑스라지로 해주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 아메리카노 두 잔 주세요. Customer's 2 Input: 아메리카노 두 잔 말고 카푸치노로 바꿔주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 그린티 한 잔 주세요. Customer's 2 Input: 그린티 한 잔 말고 얼그레이로 바꿔주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 딸기 스무디 하나 주세요. Customer's 2 Input: 딸기 스무디 하나 말고 망고 스무디로 바꿔주세요"
+    },
+    {
+        "input": "Customer’s 1 Input: 카라멜 마끼아또 한 잔 주세요. Customer's 2 Input: 카라멜 마끼아또 한 잔 말고 모카로 바꿔주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 오렌지 주스 한 잔 주세요. Customer's 2 Input: 오렌지 주스 한 잔 말고 사과 주스로 바꿔주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 라떼 한 잔 주세요. Customer's 2 Input: 라떼 한 잔 말고 아메리카노로 바꿔주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 아이스 초코 한 잔 주세요. Customer's 2 Input: 아이스 초코 한 잔 말고 핫 초코로 바꿔주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 카푸치노 두 잔 주세요. Customer's 2 Input: 카푸치노 두 잔 말고 모카로 바꿔주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 복숭아 주스 한 잔 주세요. Customer's 2 Input: 복숭아 주스 한 잔 말고 패션프루트 주스로 바꿔주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 블루베리 스무디 하나 주세요. Customer's 2 Input: 블루베리 스무디 하나 말고 파인애플 스무디로 바꿔주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 카푸치노 미디엄 두 잔 중 한 잔을 아메리카노로 변경해주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 아이스 초코 한 잔과 핫 초코 한 잔 중 핫 초코를 라떼로 변경해주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 딸기 스무디 한 잔과 망고 스무디 한 잔 중 딸기 스무디를 청포도 스무디로 변경해주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 핫 바닐라 라떼 하나 빼주세요."
+    }, 
+    {
+        "input": "Customer’s 1 Input: 아이스 아메리카노 두 잔 주세요. Customer's 2 Input: 아이스 아메리카노 한 잔 빼주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 에스프레소 한 잔 주세요. Customer's 2 Input: 에스프레소 취소해주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 카푸치노 네 잔 주세요. Customer's 2 Input: 카푸치노 세 잔을 빼주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 핫초코 하나, 아이스 아메리카노 네 잔, 카라멜 마끼아또 한 잔 주세요. Customer's 2 Input: 카라멜 마끼아또 한 잔을 취소할게요."
+    },
+    {
+        "input": "Customer’s 1 Input: 핫초코 세 잔과 바닐라 라떼 두 잔 주세요. Customer's 2 Input: 바닐라 라떼 두 잔 중 한 잔만 취소해주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 에스프레소 더블샷 두 잔과 아이스 아메리카노 하나 주세요. Customer's 2 Input: 에스프레소 더블샷 한 잔을 빼주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 아이스 바닐라 라떼 세 잔 주세요. Customer's 2 Input: 아이스 바닐라 라떼 세 잔 중 두 잔을 취소해주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 카푸치노 하나, 아메리카노 두 잔 주세요. Customer's 2 Input: 아메리카노 두 잔 중 하나만 빼주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 아이스 아메리카노 두 잔에 샷 추가해서 주세요. Customer's 2 Input: 아이스 아메리카노 두 잔에 샷 추가한 것 중 한 잔을 빼주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 카푸치노 한 잔과 라떼 한 잔 주세요. Customer's 2 Input: 카푸치노 한 잔 빼주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 딸기 스무디 두 잔 주세요. Customer's 2 Input: 딸기 스무디 한 잔 빼주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 그린티 한 잔과 핫 초코 한 잔 주세요. Customer's 2 Input: 핫 초코 한 잔 빼주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 오렌지 주스 두 잔 주세요. Customer's 2 Input: 오렌지 주스 한 잔 빼주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 치즈케이크 한 조각과 브라우니 한 조각 주세요. Customer's 2 Input: 치즈케이크 한 조각 빼주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 아이스 라떼 한 잔과 핫 초코 한 잔 주세요. Customer's 2 Input: 핫 초코 한 잔 빼주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 망고 스무디 두 잔 주세요. Customer's 2 Input: 망고 스무디 한 잔 빼주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 카라멜 마끼아또 한 잔과 아메리카노 한 잔 주세요. Customer's 2 Input: 카라멜 마끼아또 한 잔 빼주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 딸기 스무디 하나 빼주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 아이스 카라멜 마끼아또 하나 빼주세요."
+    },
+    {
+        "input": "Customer's 1 Input: 아이스 카페라떼 두 잔에 샷 추가해주세요."
+    }, 
+    {
+        "input": "Customer's 1 Input: 아메리카노 세 잔에 휘핑크림 넣어주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 아이스 바닐라 라떼 한 잔 주세요. Customer's 2 Input: 아이스 바닐라 라떼 한 잔에 초콜릿 시럽 넣어주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 카라멜 마끼아또 한 잔 주세요. Customer's 2 Input: 카라멜 마끼아또 한 잔에 휘핑크림과 시나몬 파우더 추가해주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 아이스 카페라떼 한 잔 주세요. Customer's 2 Input: 아이스 카페라떼 한 잔에 바닐라 시럽 추가하고 휘핑크림도 올려주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 에스프레소 두 잔 주세요. Customer's 2 Input: 에스프레소 두 잔에 카라멜 시럽 추가해주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 아이스 카라멜 마끼아또 한 잔 주세요. Customer's 2 Input: 아이스 카라멜 마끼아또에 샷 하나 더 추가해주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 아이스 아메리카노 두 잔 주세요. Customer's 2 Input: 아이스 아메리카노 두 잔에 레몬 조각 넣어주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 바닐라 라떼 한 잔 주세요. Customer's 2 Input: 바닐라 라떼에 초콜릿 시럽 추가해주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 아메리카노 한 잔 주세요. Customer's 2 Input: 콜드브루 한 잔에 바닐라 시럽과 샷 추가해주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 에스프레소 두잔 주세요. Customer's 2 Input: 에스프레소 두잔에 샷 추가해주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 아이스 아메리카노 엑스라지 한잔 주세요. Customer's 2 Input: 아이스 아메리카노 엑스라지에 바닐라 시럽 넣어주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 아이스 아메리카노 샷 추가한거 한잔 주세요. Customer's 2 Input: 아이스 아메리카노 샷 추가되어있는거 한잔에 휘핑크림 올려주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 아메리카노 라지 사이즈 한잔 주세요. Customer's 2 Input: 아메리카노 라지 사이즈 샷 추가한거 한잔에 카라멜 시럽도 넣어주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 아메리카노 라지 사이즈 한잔 주세요. Customer's 2 Input: 아메리카노 라지 사이즈 샷 추가한거 한잔에 카라멜 시럽도 넣어주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 에스프레소 샷 추가한거 두잔 주세요. Customer's 2 Input: 에스프레소 샷 추가한거 한잔에 샷 빼주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 에스프레소 샷 추가한거 두잔 주세요. Customer's 2 Input: 에스프레소 샷 추가한거 두잔에 샷 빼주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 아이스 카라멜마끼아또 두잔 주세요. Customer's 2 Input: 아이스 카라멜마끼아또 두잔에 휘핑크림 얹어주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 아이스 카라멜마끼아또 두잔 주세요. Customer's 2 Input: 아이스 카라멜마끼아또 두잔에 휘핑크림 올려주세요."
+    },
+    {
+        "input": "Customer’s 1 Input: 아이스 카라멜마끼아또 두잔 주세요. Customer's 2 Input: 아이스 카라멜마끼아또 두잔에 휘핑크림 추가해주세요."
+    }
+    
+]
